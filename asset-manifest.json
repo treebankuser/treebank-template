@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/treebank-template/static/css/main.bd98509e.chunk.css",
-    "main.js": "/treebank-template/static/js/main.cb201b33.chunk.js",
-    "main.js.map": "/treebank-template/static/js/main.cb201b33.chunk.js.map",
+    "main.js": "/treebank-template/static/js/main.c828f58d.chunk.js",
+    "main.js.map": "/treebank-template/static/js/main.c828f58d.chunk.js.map",
     "runtime-main.js": "/treebank-template/static/js/runtime-main.94c54c7b.js",
     "runtime-main.js.map": "/treebank-template/static/js/runtime-main.94c54c7b.js.map",
     "static/css/2.354f031a.chunk.css": "/treebank-template/static/css/2.354f031a.chunk.css",
     "static/js/2.1716a128.chunk.js": "/treebank-template/static/js/2.1716a128.chunk.js",
     "static/js/2.1716a128.chunk.js.map": "/treebank-template/static/js/2.1716a128.chunk.js.map",
     "index.html": "/treebank-template/index.html",
-    "precache-manifest.448915e7851d6d52f4feba1769fc4b99.js": "/treebank-template/precache-manifest.448915e7851d6d52f4feba1769fc4b99.js",
+    "precache-manifest.3ce927ab3afa7529fc95550c88480d3f.js": "/treebank-template/precache-manifest.3ce927ab3afa7529fc95550c88480d3f.js",
     "service-worker.js": "/treebank-template/service-worker.js",
     "static/css/2.354f031a.chunk.css.map": "/treebank-template/static/css/2.354f031a.chunk.css.map",
     "static/css/main.bd98509e.chunk.css.map": "/treebank-template/static/css/main.bd98509e.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.354f031a.chunk.css",
     "static/js/2.1716a128.chunk.js",
     "static/css/main.bd98509e.chunk.css",
-    "static/js/main.cb201b33.chunk.js"
+    "static/js/main.c828f58d.chunk.js"
   ]
 }
